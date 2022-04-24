@@ -1,2 +1,2 @@
 Welcome to Learning Diff Examples!!
-Tesing
+Tesing the merging impact from Github to local
